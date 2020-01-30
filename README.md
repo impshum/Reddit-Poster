@@ -12,3 +12,7 @@ Posts a sticky submission to a subreddit on a schedule.
 #### Info
 
 Add as many post times as you like
+
+### Tip
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
